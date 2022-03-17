@@ -1,0 +1,11 @@
+Model Information:
+* title:	LittleMan
+* source:	https://sketchfab.com/3d-models/littleman-1858b099193c4515b8a20bfda1ae0c27
+* author:	anthonydelpercio (https://sketchfab.com/anthonydelpercio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LittleMan" (https://sketchfab.com/3d-models/littleman-1858b099193c4515b8a20bfda1ae0c27) by anthonydelpercio (https://sketchfab.com/anthonydelpercio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
